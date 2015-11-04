@@ -13,7 +13,7 @@ import org.openqa.selenium.phantomjs.PhantomJSDriver;
 import org.openqa.selenium.support.ui.ExpectedCondition;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-public class OpenBrowser {
+public class BrowserDemo {
 	public static void main(String[] args) throws UnsupportedEncodingException {
 		// openChromeWindow();
 
